@@ -11,6 +11,6 @@ package com.mycompany.poo0;
 public class Poo0 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola chicos de DAM");
     }
 }
